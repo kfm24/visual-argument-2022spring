@@ -12,6 +12,8 @@
 
 This project took me a little while to really settle into. I knew what argument I wanted to make but had a hard time executing it at first. After crafting various versions of my argument it was clear that my friends and classmates were not understanding what my message was supposed to express. So I decided to scrap my first drafts and start new--which was the best idea I had since I kept trying to alter something that was not doing the job I was trying to make it do.  
 
+The argument I intended to make with my visual argument is that education can change the toxic prison cycle. It is important to understand that the US prison system is flawed and needs to change. If we want prisoners to learn from their mistakes and not end up back in prison after their release the system needs to teach them skills to be successful. In my visual argument the cycle is clear: crime, arrested, behind bars, then released. 
+
 
 # Project 2: Visual Argument / Rhetorical Collage
 
