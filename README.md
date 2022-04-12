@@ -1,4 +1,4 @@
-## sources
+## Sources
 | Visuals      | Sources |
 | ----------- | ----------- |
 | cycle arrows     | https://thenounproject.com/icon/curved-arrow-670085/       |
@@ -9,6 +9,8 @@
 | walking man   | https://thenounproject.com/icon/walking-838717/      |
 | books background      | https://unsplash.com/photos/HH4WBGNyltc     |
 | breaking part of arrow  | https://thenounproject.com/icon/breaking-1189519/       |
+
+This project took me a little while to really settle into. I knew what argument I wanted to make but had a hard time executing it at first. After crafting various versions of my argument it was clear that my friends and classmates were not understanding what my message was supposed to express. So I decided to scrap my first drafts and start new--which was the best idea I had since I kept trying to alter something that was not doing the job I was trying to make it do.  
 
 
 # Project 2: Visual Argument / Rhetorical Collage
